@@ -43,9 +43,6 @@ curl -fL '[https://s7.softaculous.com/a/virtualizor/updates.php?give=3.2.9.7](ht
 * 下载并解压安装包后，若自定义了离线分发或本地更新服务，请务必检查并修改相关的 `updates.php` 配置（包括但不限于更新版本号验证、文件校验哈希以及远程更新源请求地址）。
 
 
-
-```
-
 ---
 
 ### 说明与优化点：
